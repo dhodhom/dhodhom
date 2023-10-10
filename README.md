@@ -1,4 +1,4 @@
-<h3>Halo 👋</h3>
+<h2>Halo ! 👋</h2>
 <hr />
 
 Perkenalkan, nama saya Lukman Nurhakim.
