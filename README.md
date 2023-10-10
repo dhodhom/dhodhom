@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hallo 👋👋👋
+
+Perkenalkan, nama saya Lukman Nurhakim.
+Saya adalah seorang lulusan S1 Jurusan Teknik Informatika STMIK Dharma Negara Bandung, sudah bekerja sejak tahun 2010 di IT Consultant sebagai Full Stack Developer, terbiasa membuat Website Application menggunakan bahasa pemrograman PHP dan basis data SQL Server/MySQL/PostgreSQL, saat ini saya sedang mendalami teknologi pemrograman terbaru seperti Tech Stack MERN (MongoDb, Express, ReactJs, NodeJs).
 
 <!--
 **dhodhom/dhodhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
